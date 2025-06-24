@@ -96,7 +96,7 @@ GAS\_Template shares the same structural approach as Lyra. If you're familiar wi
 
 This project uses design conventions aligned with:
 
-* [Lyra Starter Game Documentation](https://dev.epicgames.com/community/learning/courses/lyra)
+* [Lyra Starter Game Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/lyra-sample-game-in-unreal-engine?application_version=5.0)
 * [Unreal GAS Documentation](https://docs.unrealengine.com/5.0/en-US/gameplay-ability-system-in-unreal-engine/)
 
 ---
