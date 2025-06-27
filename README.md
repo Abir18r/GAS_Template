@@ -1,4 +1,4 @@
-# GAS\_Template Wiki
+``# GAS\_Template Wiki
 
 **GAS\_Template** is a production-ready, modular, and data-driven Gameplay Ability System (GAS) framework for Unreal Engine, heavily inspired by the architecture of Epic Games' **Lyra Starter Game**.
 
@@ -62,6 +62,8 @@ Reusable effects for modifying attributes (e.g., sprint speed, mana cost, cooldo
    * Enhanced Input
 
 ## 2. 🚨 Add 3 Necessary Changes in Projects Settings
+
+ * Add [`Config`](https://github.com/Abir18r/GAS_Template/tree/main/Config) folder with the [`GameplayTags`](https://github.com/Abir18r/GAS_Template/blob/main/Config/GameplayTags.ini) in Plugins folder `[**\Epic Games\UE_5.5\Engine\Plugins\Marketplace\GASTemple****]`
 ### Game Viewport Client Class: 
 ![Game Viewport Client](https://github.com/Abir18r/GAS_Template/blob/main/GAS_Template_Documentations/GameViewPort.png)
 ### Game Instance: 
