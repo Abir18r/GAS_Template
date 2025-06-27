@@ -61,11 +61,19 @@ Reusable effects for modifying attributes (e.g., sprint speed, mana cost, cooldo
    * GameplayTags
    * Enhanced Input
 
-2. Create or configure your Pawn using `PawnData`.
+## 2. 🚨 Add 3 Necessary Changes in Projects Settings
+### Game Viewport Client Class: 
+![Game Viewport Client](https://github.com/Abir18r/GAS_Template/blob/main/GAS_Template_Documentations/GameViewPort.png)
+### Game Instance: 
+![Game Instance](https://github.com/Abir18r/GAS_Template/blob/main/GAS_Template_Documentations/GameInstance.png)
+### Default Input Component
+![Default Input Component](https://github.com/Abir18r/GAS_Template/blob/main/GAS_Template_Documentations/InputComponent.png)
 
-3. Assign `AbilitySets` and input configs in `PawnData`.
+3. Create or configure your Pawn using `PawnData`.
 
-4. Set up your player controller and character blueprint to use GAS components.
+4. Assign `AbilitySets` and input configs in `PawnData`.
+
+5. Set up your player controller and character blueprint to use GAS components.
 
 ---
 
