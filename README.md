@@ -1,4 +1,6 @@
-``# GAS\_Template Wiki
+# GAS\_Template Wiki
+
+# Get it on FAB Marketplace : [GAS_Template](https://www.fab.com/portal/listings/17bb9a1b-1f80-4279-978b-71db6edc7268/edit)
 
 **GAS\_Template** is a production-ready, modular, and data-driven Gameplay Ability System (GAS) framework for Unreal Engine, heavily inspired by the architecture of Epic Games' **Lyra Starter Game**.
 
